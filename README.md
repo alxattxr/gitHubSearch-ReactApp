@@ -1,6 +1,6 @@
 # gitHubSearch-ReactApp
 
-##Simple Application Created in React.Js to Search github repositories by username
+## Simple Application Created in React.Js to Search github repositories by username
 
 ### App was initialised usnig Facebook create-react-app
 
